@@ -1,4 +1,4 @@
-### Hi there 👋
+# Stray birds of summer come to my window to sing and fly away. And yellow leaves of autumn, which have no songs, flutter and fall, there with a sign. 👋
 
 <!--
 **erikrotarugmailm/erikrotarugmailm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
